@@ -8,9 +8,9 @@
 LOCAL_PATH := device/eebbk/sm6150
 
 PRODUCT_PACKAGES += \
-    android.hardware.boot@1.0-impl \
-    android.hardware.boot@1.0-service \
-    android.hardware.boot@1.0.recovery \
+    android.hardware.boot@1.1-impl \
+    android.hardware.boot@1.1-service \
+    android.hardware.boot@1.1.recovery \
     bootctrl.sm6150 \
     bootctrl.sm6150.recovery 
 

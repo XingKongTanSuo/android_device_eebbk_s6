@@ -6,9 +6,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_sm6150.mk
+    $(LOCAL_DIR)/twrp_sm6150.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_sm6150-user \
-    omni_sm6150-userdebug \
-    omni_sm6150-eng
+    twrp_sm6150-user \
+    twrp_sm6150-userdebug
